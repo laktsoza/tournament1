@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'calibri';
+}
+
+table th {
+    width: 100px;
+}
+
+table th, table td {
+    border: 1px solid black;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.scores, .play {
+    text-align: center;
+    margin: 10px;
+}
+.scores select {
+    margin: 10px;
+}
+.scores input {
+    width: 30px;
+    margin: 10px;
+}
